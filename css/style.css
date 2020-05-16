@@ -15,6 +15,9 @@ body {
   padding: 0;
   margin: 0;
 }
+h2 {
+  margin: 0;
+}
 img {
   width: 300px;
 }
@@ -26,6 +29,7 @@ a:hover {
 }
 .content-wrap {
   width: 800px;
+  padding: 60px 0;
   margin: 0 auto;
 }
 
@@ -51,6 +55,7 @@ header {
   background: #2F3061;
   text-decoration: none;
   padding: 8px;
+  display: inline-block;
   border-radius: 4px;
 }
 .projects .btn:hover {
