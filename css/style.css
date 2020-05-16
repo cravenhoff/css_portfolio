@@ -8,7 +8,46 @@ COLOR PALETTE
 */
 
 
-/* Resize images */
+/* Global Styles
+-------------------------------------------------- */
+body {
+  color: #343434;
+}
 img {
   width: 300px;
+}
+
+
+/* Profile
+-------------------------------------------------- */
+header {
+  color: #F7FFF7;
+  background-color: #2F3061;
+}
+
+
+/* Projects
+-------------------------------------------------- */
+.projects {
+  background-color: #F7FFF7;
+}
+
+
+/* Work Experience
+-------------------------------------------------- */
+.work-experience {
+  background-color: #A1C6D7;
+}
+
+
+/* Education
+-------------------------------------------------- */
+
+
+
+/* Contact Information
+-------------------------------------------------- */
+footer {
+  color: #F7FFF7;
+  background-color: #343434;
 }
